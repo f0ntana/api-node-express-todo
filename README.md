@@ -2,8 +2,8 @@
 Api node usando express para um app todo
 
 
-##install
+## install
 -> npm install
 
-##run
+## run
 -> npm run dev
